@@ -1,2 +1,0 @@
-# 362Project
-Subscription Tracker
